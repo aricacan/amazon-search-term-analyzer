@@ -1,0 +1,28 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.swp
+
+# Test results
+TestResults/
+*.trx
+coverage*.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Analyzer results from local runs (sample-output/ is committed on purpose)
+output/
